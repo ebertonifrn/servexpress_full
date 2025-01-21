@@ -9,7 +9,7 @@ module.exports = {
   connection: {
     database: 'sistautbd',
     user:     'postgres',
-    password: 'senha'
+    password: 'senhaPG'
   },
   pool: {
     min: 2,
